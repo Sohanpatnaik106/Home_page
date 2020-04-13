@@ -1,0 +1,59 @@
+.navbar {
+  overflow: hidden; 
+  background-color: #001433; 
+}
+
+.navbar a {
+  float: left; 
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 20px; 
+  text-decoration: none; 
+}
+
+.navbar a:hover {
+  background-color: #a366ff; 
+  color: white; 
+}
+
+.navbar a.active {
+  background-color: #a366ff;
+}
+
+body {
+  background-image: url(mypic_background.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+#message {
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  line-height: 40px;
+  font-style: sans-serif;
+  font-size: 20px;
+  word-spacing: 2px
+  width: auto;
+  margin: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 170px;
+  color: #001433;
+  padding: 200px, auto, 50px, auto;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+  margin: cover;
+  width: cover;
+  text-align: center;
+}
+
+footer{
+  color:white;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+}

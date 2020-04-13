@@ -1,0 +1,108 @@
+.navbar {
+  overflow: hidden; 
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left; 
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 20px; 
+  text-decoration: none; 
+}
+
+.navbar a:hover {
+  background-color: #a366ff; 
+  color: white; 
+}
+
+.navbar a.active {
+  background-color: #a366ff;
+}
+
+body {
+  background-image: url(about_back3.jpg);
+  color: white;
+  background-size: cover;
+  text-align: justify;
+}
+
+.myself {
+  border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+}
+
+.school {
+  border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+}
+
+.fiitjee {
+   border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+
+}
+
+.parents {
+   border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+
+}
+
+.achievements {
+  border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+}
+
+.skills {
+   border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+
+}
+
+.projects {
+   border-width: 5px;
+  border-color: white;
+  border-style: solid;
+  padding: 20px;
+  margin: 20px;
+  line-height: 25px;
+
+}
+
+footer{
+  color:white;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}

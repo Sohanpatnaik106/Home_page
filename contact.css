@@ -1,0 +1,117 @@
+.navbar {
+  overflow: hidden; 
+  background-color: #333; 
+}
+
+.navbar a {
+  float: left; 
+  display: block; 
+  color: white; 
+  text-align: center; 
+  padding: 14px 20px; 
+  text-decoration: none; 
+}
+
+.navbar a:hover {
+  background-color: #a366ff; 
+  color: white; 
+}
+
+.navbar a.active {
+  background-color: #a366ff;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 75px;
+  padding: 50px;
+  color: white;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+body {
+  background-image: url(cont_back1.jpeg);
+  background-size: cover;
+}
+
+.social{
+  text-align: center;
+  padding: 75px;
+}
+
+.social a {
+  color: white;
+  padding: 20px;
+  border-style: solid;
+  border-spacing: 50px;
+  text-decoration: none;
+  background: black;
+  margin: 10px;
+}
+
+.fb {
+  border-color: #4d4dff;
+  padding: 5px;
+  border-spacing: 10px;
+}
+
+.fb:hover {
+  background: #4d4dff;
+}
+
+.insta {
+  border-color: #bf00ff;
+  padding: 5px;
+  border-spacing: 10px;
+}
+
+.linkd {
+  border-color: #ff3333;
+  padding: 5px;
+  border-spacing: 10px;
+}
+
+.mail {
+  border-color: #990000;
+  padding: 5px;
+  border-spacing: 10px;
+}
+
+.insta:hover {
+  background: #bf00ff;
+}
+
+.linkd:hover {
+  background:  #ff3333;
+}
+
+.mail:hover {
+  background: #990000;
+}
+
+.git {
+  border-color: #00802b;
+  padding: 5px;
+  border-spacing: 10px;
+}
+
+.git:hover {
+  background: #00802b;
+}
+
+footer{
+  color:white;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+
+.message {
+  color: black;
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bolder;
+
+}
